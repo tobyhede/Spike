@@ -1,0 +1,15 @@
+# Spike
+
+Spike is a reference server for high-concurrency HTTP testing. 
+
+
+## Usage
+
+lein ring server
+
+
+## License
+
+Copyright (C) 2010 Toby Hede
+
+Distributed under the Eclipse Public License, the same as Clojure.
